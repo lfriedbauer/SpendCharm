@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Cloud Services",
+    "Software Licenses",
+    "Marketing Tools",
+    "Office Supplies",
+    "Travel & Entertainment",
+    "Professional Services",
+    "Hardware",
+    "Telecommunications",
+    "Subscriptions",
+    "Other"
+  ],
+  "keywords": {
+    "Cloud Services": [
+      "aws", "amazon web services", "azure", "microsoft azure", 
+      "google cloud", "gcp", "hosting", "cloudflare", "digital ocean",
+      "ec2", "s3", "lambda", "compute engine", "cloud storage"
+    ],
+    "Software Licenses": [
+      "adobe", "microsoft office", "microsoft 365", "slack", "zoom",
+      "salesforce", "hubspot", "atlassian", "jira", "confluence",
+      "github", "gitlab", "license", "subscription", "saas"
+    ],
+    "Marketing Tools": [
+      "mailchimp", "constant contact", "hootsuite", "buffer",
+      "google ads", "facebook ads", "linkedin ads", "seo tools",
+      "semrush", "ahrefs", "canva", "marketing", "advertising"
+    ],
+    "Office Supplies": [
+      "staples", "office depot", "paper", "printer", "ink",
+      "furniture", "desk", "chair", "supplies", "stationery"
+    ],
+    "Travel & Entertainment": [
+      "hotel", "flight", "airline", "uber", "lyft", "taxi",
+      "restaurant", "meal", "entertainment", "conference", "event"
+    ],
+    "Professional Services": [
+      "consulting", "legal", "accounting", "audit", "contractor",
+      "freelance", "agency", "services", "advisory", "counsel"
+    ],
+    "Hardware": [
+      "computer", "laptop", "server", "dell", "hp", "lenovo",
+      "apple", "equipment", "device", "monitor", "hardware"
+    ],
+    "Telecommunications": [
+      "verizon", "at&t", "t-mobile", "internet", "phone",
+      "mobile", "telecom", "broadband", "fiber", "voip"
+    ],
+    "Subscriptions": [
+      "netflix", "spotify", "subscription", "monthly", "annual",
+      "recurring", "membership", "premium", "plan"
+    ]
+  },
+  "risk_keywords": [
+    "increase", "price hike", "additional charges", "overdue",
+    "penalty", "late fee", "escalation", "surge", "unexpected"
+  ],
+  "savings_keywords": [
+    "discount", "savings", "reduced", "promotion", "offer",
+    "bundle", "free", "waived", "credit", "refund"
+  ]
+}
